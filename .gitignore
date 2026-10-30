@@ -1,0 +1,7 @@
+*.json
+!package.json
+*.wav
+*.mp3
+*.m4a
+Thumbs.db
+.DS_Store
