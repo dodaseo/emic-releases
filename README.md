@@ -6,10 +6,12 @@
 
 소개 페이지: **https://emic.dodaseo.cc**
 
-## 상태
+## 내려받기
 
-**아직 공개 릴리스가 없습니다.** 첫 설치본이 준비되면 이 저장소의 [Releases](https://github.com/dodaseo/emic-releases/releases) 에
-`Emic-<버전>-setup.exe` 와 `.sha256` 이 올라옵니다. 이 저장소를 Watch 해 두면 알림을 받습니다.
+**[최신 릴리스](https://github.com/dodaseo/emic-releases/releases/latest)** 에서 `Emic-<버전>-setup.exe` 를 내려받아 실행합니다.
+관리자 권한이 필요 없습니다(`%LOCALAPPDATA%\Programs\Emic` 에 설치). 처음 실행할 때 SmartScreen 경고가 뜨면 **추가 정보 › 실행**.
+다음 판부터는 앱이 새 판을 알려 주고 **도움말 › 업데이트 확인** 에서 내려받아 검증한 뒤 스스로 교체합니다.
+각 파일의 SHA-256 은 같은 이름의 `.sha256` 자산과 릴리스 노트에 있습니다.
 
 ## 이 저장소는 무엇인가
 

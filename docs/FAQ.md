@@ -1,8 +1,9 @@
 # 자주 묻는 질문
 
-## 설치 파일은 언제 나오나요?
-아직 공개 릴리스가 없습니다. 첫 설치본이 준비되면 [Releases](https://github.com/dodaseo/emic-releases/releases) 에 올라오고,
-소개 페이지 [emic.dodaseo.cc](https://emic.dodaseo.cc) 의 내려받기 단추가 자동으로 그 파일을 가리킵니다. 저장소를 Watch 해 두면 알림을 받습니다.
+## 어디서 내려받나요? 업데이트는요?
+[최신 릴리스](https://github.com/dodaseo/emic-releases/releases/latest) 의 `Emic-<버전>-setup.exe` 입니다. 소개 페이지
+[emic.dodaseo.cc](https://emic.dodaseo.cc) 의 내려받기 단추도 같은 파일을 가리킵니다. 설치한 뒤에는 앱이 시작할 때 새 판을 알려 주고,
+**도움말 › 업데이트 확인** 에서 내려받아 체크섬을 검증한 뒤 앱을 닫고 교체해 다시 엽니다. 프로젝트 파일은 건드리지 않습니다.
 
 ## 자료는 어디에 저장되나요?
 프로젝트는 고른 폴더의 `project.json` 하나입니다. 저장할 때마다 같은 폴더에 세대 백업(`.bak.1~3`)과 날짜 백업을 남깁니다.
